@@ -2,7 +2,6 @@
 - 👀 I’m interested in UXR
 - 🌱 I’m currently learning UXR
 - 💞️ I’m looking to collaborate on projects related to technology, education, etc.
-- 📫 How to reach me email - dr.jacqueline.riley@gmail.com
 
 <!---
 JackieRiley1/JackieRiley1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
